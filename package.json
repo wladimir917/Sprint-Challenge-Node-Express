@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/wladimir917/Sprint-Challenge-Node-Express.git",
   "author": "Fausto Wladimir Fraga <wladimir917@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.14.6",
+    "sqlite3": "^4.0.0"
+  }
 }
